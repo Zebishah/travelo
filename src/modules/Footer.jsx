@@ -17,7 +17,7 @@ const Footer = () => {
             </div>
             <div className="box">
               <h3>branch locations</h3>
-              <Link to={"/"}>india</Link>
+              <Link to={"/"}>Pakistan</Link>
               <Link to={"/"}>USA</Link>
               <Link to={"/"}>japan</Link>
               <Link to={"/"}>france</Link>
